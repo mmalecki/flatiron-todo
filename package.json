@@ -1,0 +1,19 @@
+{
+  "author": "Maciej Małecki <maciej.malecki@notimplemented.org>",
+  "name": "flatiron-todo",
+  "description": "Example of flatiron-powered code",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mmalecki/flatiron-todo.git"
+  },
+  "engines": {
+    "node": ">= 0.4"
+  },
+  "dependencies": {
+    "flatiron": "*",
+    "sugarskull": "*",
+    "union": "*"
+  },
+  "devDependencies": {}
+}
